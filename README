@@ -3,3 +3,14 @@ A small text-based adventure game I made when doing exercises for Learn Python T
 To run, simply run 
 python mini_text_game.py [YOUR NAME HERE] 
 in mini_text_game.
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+INSTRUCTIONS/TIPS:
+
+
+For info about current location and items, enter 'i' or 'info'.
+
+Other navigation keywords may be figured out intuitively (left, right, forward, backward, ect.).
+
